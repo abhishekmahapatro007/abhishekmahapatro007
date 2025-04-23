@@ -49,7 +49,7 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 
 ---
 
-### 📍 [Odoo Module Search App]
+### 📍 Odoo Module Search App
 > Trademark Search for UK-based brands using Bubble.io and n8n for backend automations.
 
 - **Tech Stack**: Kotlin  
@@ -61,10 +61,10 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 
 ## 🔧 Internships & Experience
 
-- **Ex ERP Intern @ Odiware Technologies**  
+- **Ex ERP Intern @ Odiware Technologies(02.12.2024-13.01.2025)**
   Specialized in Custom Odoo module functioning, ERP planning & customization.
 
-- **Tech Specialist @ Lex Protector llp**  
+- **Tech Specialist @ Lex Protector llp(13.01.2025-14.04.2025**  
   Specialised in Web Development,automation and bubbe.io API integration
 
 ---
@@ -72,7 +72,7 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 ## 🌐 Let's Connect
 
 - 📧 Email: [abhishekmahapatro007@gmail.com](mailto:abhishekmahapatro007@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/abhishekmahapatro007](https://www.linkedin.com/in/abhishek-mahapatro-31586b319/)
+- 💼 LinkedIn: [Abhishek Mahapatro](https://www.linkedin.com/in/abhishek-mahapatro-31586b319/)
 - 🧠 GitHub: [@abhishekmahapatro007](https://github.com/abhishekmahapatro007)
 
 ---
