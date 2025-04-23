@@ -61,13 +61,12 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 
 ## 🔧 Internships & Experience
 
-- **Ex ERP Intern @ Odiware Technologies(02.12.2024-13.01.2025)**
-  Specialized in Custom Odoo module functioning, ERP planning & customization.
+- **ERP Intern @ Odiware Technologies** *(Dec 2, 2024 – Jan 13, 2025)*  
+  Specialized in custom Odoo module functionality, ERP planning & customization.
 
-- **Tech Specialist @ Lex Protector llp(13.01.2025-14.04.2025**  
-  Specialised in Web Development,automation and bubbe.io API integration
+- **Tech Specialist @ Lex Protector LLP** *(Jan 13, 2025 – Apr 14, 2025)*  
+  Specialized in web development, n8n automation, and Bubble.io API integration.
 
----
 
 ## 🌐 Let's Connect
 
