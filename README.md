@@ -61,7 +61,7 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 ## 🌐 Let's Connect
 
 - 📧 Email: [abhishekmahapatro007@gmail.com](mailto:abhishekmahapatro007@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/abhishekmahapatro007](https://linkedin.com/in/abhishekmahapatro007)
+- 💼 LinkedIn: [linkedin.com/in/abhishekmahapatro007]([https://linkedin.com/in/abhishekmahapatro007](https://www.linkedin.com/in/abhishek-mahapatro-31586b319/))
 - 🧠 GitHub: [@abhishekmahapatro007](https://github.com/abhishekmahapatro007)
 
 ---
