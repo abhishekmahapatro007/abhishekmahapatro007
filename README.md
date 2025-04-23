@@ -39,7 +39,7 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 
 ---
 
-### 📍 [UK Trademark Search Homepage](https://uktrademark.lexprotector.com/)
+### 📍 [UK Trademark Search Homepage](https://uktrademark.lexprotector.com/uktm)
 > Trademark Search for UK-based brands using Bubble.io and n8n for backend automations.
 
 - **Tech Stack**: Flexifunnels, Canva ,Zapier for backend
@@ -49,7 +49,7 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 
 ---
 
-### 📍 [Odoo Module Search App](https://uktrademark.lexprotector.com/)
+### 📍 [Odoo Module Search App]
 > Trademark Search for UK-based brands using Bubble.io and n8n for backend automations.
 
 - **Tech Stack**: Kotlin  
