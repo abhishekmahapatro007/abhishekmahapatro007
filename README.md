@@ -9,52 +9,63 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 ## 💪 My Strengths
 
 - 🔹 Full-stack Web Development (MERN, Next.js, Tailwind CSS)
-- 🔹 Mobile App Development (Kivy, BeeWare, Android Studio)
+- 🔹 Mobile App Development (Still learning)
 - 🔹 ERP Customization and Odoo (Community & Enterprise)
-- 🔹 AI & Python Development
+- 🔹 AI & Website Development
 - 🔹 UI/UX Design Focus
-- 🔹 REST APIs & Payment Gateway Integration (Stripe)
+- 🔹 Bubble Dev and n8n Automation
 
 ---
 
 ## 📂 Featured Projects
 
-### 🧠 [PodStream – Podcast Streaming App](https://github.com/abhishekmahapatro007/PodStream)
-> A modern podcast streaming platform built with the MERN stack.
+### ❤️‍🔥 [UK Trademark Search](https://uktrademark.lexprotector.com/search)
+> Trademark Search for UK-based brands using Bubble.io and n8n for backend automations.
 
-- Tech Stack: MongoDB, Express, React, Node.js
-- Features: Podcast player, authentication, subscriptions, responsive UI
+- **Tech Stack**: Bubble.io, Flexifunnels, n8n, Canva  
+- **Features**: Trademark search, authentication, subscriptions, responsive UI
 
-🎥 [Project Demo](#) *(Add your YouTube or Loom video link)*
-
----
-
-### 🍱 [Food Delivery App](https://github.com/abhishekmahapatro007/food-delivery-app)
-> A fully functional food delivery platform with a sleek UI.
-
-- Tech Stack: React, Next.js, Tailwind, Prisma, PostgreSQL, Stripe, Zustand, Auth.js
-- Features: Real-time orders, secure payments, Google Auth
-
-🎥 [Project Demo](#)
+🎥 [Project Demo](https://drive.google.com/file/d/1vKRWkMZ6ogTC4GfmebB81klEFwlDIs8B/view?usp=drive_link)
 
 ---
 
-### 📸 [Snapgram – Social Media App](https://github.com/abhishekmahapatro007/snapgram)
-> A visually rich, responsive social media web app.
+### 🌍 [International Trademark Search](https://tm.lexprotector.com/)
+> Trademark Search for UK-based brands using Bubble.io and n8n for backend automations.
 
-- Features: Post sharing, user profiles, mobile-responsive layout
+- **Tech Stack**: Bubble.io, Flexifunnels, n8n, Canva  
+- **Features**: Trademark search, authentication, subscriptions, responsive UI
 
-🎥 [Project Demo](#)
+🎥 [Project Demo](https://drive.google.com/file/d/1AvmVd5jOOB-6RUvscw8M34-LBS5Te33W/view?usp=drive_link)
+
+---
+
+### 📍 [UK Trademark Search Homepage](https://uktrademark.lexprotector.com/)
+> Trademark Search for UK-based brands using Bubble.io and n8n for backend automations.
+
+- **Tech Stack**: Flexifunnels, Canva ,Zapier for backend
+- **Features**: Trademark registration, responsive UI
+
+🎥 [Project Demo](https://drive.google.com/file/d/1vKRWkMZ6ogTC4GfmebB81klEFwlDIs8B/view?usp=drive_link)
+
+---
+
+### 📍 [Odoo Module Search App](https://uktrademark.lexprotector.com/)
+> Trademark Search for UK-based brands using Bubble.io and n8n for backend automations.
+
+- **Tech Stack**: Kotlin  
+- **Features**: Trademark search, authentication, subscriptions, responsive UI
+
+🎥 [Project Demo](https://drive.google.com/file/d/1vKRWkMZ6ogTC4GfmebB81klEFwlDIs8B/view?usp=drive_link)
 
 ---
 
 ## 🔧 Internships & Experience
 
-- **ERP Intern @ Odiware Technologies**  
-  Specialized in Odoo module testing, ERP planning & customization.
+- **Ex ERP Intern @ Odiware Technologies**  
+  Specialized in Custom Odoo module functioning, ERP planning & customization.
 
-- **Upcoming Developer @ IBS Software Pvt. Ltd.**  
-  Joining 22nd April 2025
+- **Tech Specialist @ Lex Protector llp**  
+  Specialised in Web Development,automation and bubbe.io API integration
 
 ---
 
