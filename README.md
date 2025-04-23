@@ -45,7 +45,7 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 - **Tech Stack**: Flexifunnels, Canva ,Zapier for backend
 - **Features**: Trademark registration, responsive UI
 
-🎥 [Project Demo](https://drive.google.com/file/d/1vKRWkMZ6ogTC4GfmebB81klEFwlDIs8B/view?usp=drive_link)
+🎥 [Project Demo](https://drive.google.com/file/d/1qmcPgNIH3gbO3o-Muu5h8PqkKMieNTvI/view?usp=drive_link)
 
 ---
 
@@ -55,7 +55,7 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 - **Tech Stack**: Kotlin  
 - **Features**: Trademark search, authentication, subscriptions, responsive UI
 
-🎥 [Project Demo](https://drive.google.com/file/d/1vKRWkMZ6ogTC4GfmebB81klEFwlDIs8B/view?usp=drive_link)
+🎥 [Project Demo](https://drive.google.com/file/d/1LqHmjeFLOOHwExAwEtcuc2vbeqymI8N2/view?usp=drive_link)
 
 ---
 
