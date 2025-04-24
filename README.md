@@ -17,7 +17,7 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 
 ---
 
-## 📂 Featured Projects
+## 📂 Professional Projects
 
 ### ❤️‍🔥 [UK Trademark Search](https://uktrademark.lexprotector.com/search)
 > Trademark Search for UK-based brands using Bubble.io and n8n for backend automations.
