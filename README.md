@@ -49,13 +49,21 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 
 ---
 
-### 📍 Odoo Module Search App
+### 💫 Odoo Module Search App
 > Trademark Search for UK-based brands using Bubble.io and n8n for backend automations.
 
 - **Tech Stack**: Kotlin  
 - **Features**: Trademark search, authentication, subscriptions, responsive UI
 
 🎥 [Project Demo](https://drive.google.com/file/d/1LqHmjeFLOOHwExAwEtcuc2vbeqymI8N2/view?usp=drive_link)
+
+---
+
+### ✨ [UK Webinar Page](https://uk.lexprotector.com/ukwebinar)
+> UK Webinar Page designed for Lex Protector.
+
+- **Tech Stack**: Flexifunnels,Zapier  
+- **Features**:  authentication, countdown offers, responsive UI
 
 ---
 
