@@ -17,6 +17,10 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekmahapatro007)](https://github.com/abhishekmahapatro007/github-readme-stats)
+
+---
+
 ## 📂 Professional Projects
 
 ### ❤️‍🔥 [UK Trademark Search](https://uktrademark.lexprotector.com/search)
