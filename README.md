@@ -17,7 +17,12 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekmahapatro007&show_icons=true&theme=radical&rank_icon=github)
+<a href="https://github.com/abhishekmahapatro007/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmahapatro007&show_icons=true&theme=radical&rank_icon=github" />
+</a>
+<a href="https://github.com/abhishekmahapatro007/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmahapatro007&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
@@ -78,6 +83,8 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 
 - **Tech Specialist @ Lex Protector LLP** *(Jan 13, 2025 – Apr 14, 2025)*  
   Specialized in web development, n8n automation, and Bubble.io API integration.
+
+---
 
 
 ## 🌐 Let's Connect
