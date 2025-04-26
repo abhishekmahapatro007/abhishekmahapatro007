@@ -17,9 +17,7 @@ I'm a passionate full-stack developer and an AI enthusiast who loves building re
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekmahapatro007)](https://github.com/abhishekmahapatro007/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekmahapatro007&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekmahapatro007&show_icons=true&theme=radical&rank_icon=github)
 
 ---
 
